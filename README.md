@@ -12,4 +12,4 @@ by [Dajanth](https://github.com/Rejindael/lighthouse-web-notes) for [LighthouseL
 Table of Contents
 
 *[Week 1](Week_1)
-    *Day 1(/Week_1/Day_1)
+    *[Day 1](/Week_1/Day_1)
